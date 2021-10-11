@@ -1,6 +1,6 @@
 # Summer-Project
 Bridging coursework
 
-Made a website using the following tutorial: https://tutorial.djangogirls.org/en/ 
+Website created following this tutorial: https://tutorial.djangogirls.org/en/ 
 
 Hosted on http://axr1023.pythonanywhere.com/

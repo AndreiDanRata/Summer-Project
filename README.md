@@ -3,8 +3,11 @@
 #Check out my blog here: http://axr1023.pythonanywhere.com/
 
 #Tehnologies used:
+
   Django Framework
+  
   SQLite
+  
   HTML/CSS
 
 

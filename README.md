@@ -1,8 +1,8 @@
 # Summer-Project 2020
 
-#Check out my blog here: http://axr1023.pythonanywhere.com/
+Check out my blog here: http://axr1023.pythonanywhere.com/
 
-#Tehnologies used:
+Tehnologies used:
 
   Django Framework
   
@@ -13,4 +13,4 @@
 
 
 
-#Website created following this tutorial: https://tutorial.djangogirls.org/en/ 
+Website created following this tutorial: https://tutorial.djangogirls.org/en/ 

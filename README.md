@@ -1,4 +1,4 @@
-# Summer-Project 2020
+# Summer-Project 2020 Django Website Blog
 
 Check out my blog here: http://axr1023.pythonanywhere.com/
 
